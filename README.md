@@ -14,4 +14,4 @@
   <p>- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
   <br>
-  <img src="./assets/Brown Modern Visit Our Website Video Instagram Post.png">
+  <img src="https://github.com/TGP2023/projeto-super-mario/blob/master/assets/Tela%20Github.png">
